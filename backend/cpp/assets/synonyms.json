@@ -1,0 +1,9 @@
+{
+    "ai": ["artificial intelligence", "machine learning", "deep learning"],
+    "robot": ["automation", "android", "bot"],
+    "ml": ["machine learning", "ai", "neural network"],
+    "nlp": ["natural language processing", "text understanding"],
+    "vision": ["computer vision", "image recognition"],
+    "intelligence": ["reasoning", "understanding", "cognition"]
+  }
+  
