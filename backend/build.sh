@@ -2,5 +2,5 @@
 # Build the C++ search engine for the backend
 set -e
 
-cd ../cpp
-make  
+cd cpp
+make

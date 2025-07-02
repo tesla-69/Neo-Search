@@ -8,7 +8,7 @@ app = FastAPI()
 # ✅ CORS settings to allow frontend access
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # Adjust if needed
+    allow_origins=["https://neo-search.netlify.app/"],  # Adjust if needed
     allow_methods=["*"],
     allow_headers=["*"],
 )
